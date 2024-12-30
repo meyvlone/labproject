@@ -1,0 +1,47 @@
+main {
+    padding: 40px 20px;
+    background-color: #fff;
+    color: #333;
+}
+
+section {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+section h2 {
+    font-size: 2em;
+    color: #4CAF50;
+    margin-bottom: 15px;
+}
+
+section p {
+    font-size: 1em;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+
+.team-member {
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.team-member h3 {
+    font-size: 1.5em;
+    color: #0a89a0d2;
+    margin: 10px 0;
+}
+
+.team-member p {
+    font-size: 1em;
+    color: #555;
+    line-height: 1.6;
+}
